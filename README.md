@@ -3,7 +3,7 @@ This repository contains a project for predicting housing prices using regressio
 
 ## DataSet
 - Source: Kaggle (Housing Price Dataset)
-   -Path: https://www.kaggle.com/datasets/yasserh/housing-prices-dataset
+   * Path: https://www.kaggle.com/datasets/yasserh/housing-prices-dataset
 - The dataset includes features such as price, area, bedrooms, and other house attributes.
 
 ## Models Implemented
